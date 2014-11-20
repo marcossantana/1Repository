@@ -2,7 +2,7 @@
 
 <?php include_once "top.php";?>
 <?php include_once "menu.php";?>
-
+<?php echo "Mudei alguma coisa"?>
 <body>
 
 <center>
