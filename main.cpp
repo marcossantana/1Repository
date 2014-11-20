@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 {
     int login;
     int senha;
-    
+    printf ("contador de mudancas: 1\n");
     printf ("Digite seu login agora mesmo:\n");
     scanf ("%d", &login);
     printf ("Digite sua senha:\n");
